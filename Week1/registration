@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Registration Form</title>
+</head>
+<body>
+  <h2>Student Registration Form</h2>
+  <form>
+    <table>
+    <tr>
+        <td><label>Student Name:</td> 
+        <td><input type="text" name="name" required></td></tr></label>
+    <tr>
+        <td><label>Roll Number:</td> 
+        <td><input type="text" name="rollno" required></td></tr></label>
+    <tr>
+        <td><label>Email: </td>
+        <td><input type="email" name="email" required></td></tr></label>
+    <tr>
+        <td><label>Phone Number:</td>
+        <td> <input type="tel" name="phone" required></td></tr></label>
+    <tr>
+        <td><label for="Gender">Gender</label></td>
+        <td><input type="radio" name="gender" value="Male"> Male</label></td>
+        <td><input type="radio" name="gender" value="Female"> Female</label></td></tr><br><br>
+    <tr>
+        <td><label for="Branch">Branch</label></td>
+     <td>
+        <select id="branch">Branch>
+        <option value="Select branch">--Select Branch--</option>
+        <option value="CSE">CSE</option>
+        <option value="IT">IT</option>
+        <option value="ECE">ECE</option>
+        <option value="EEE">EEE</option>
+         </select>
+      </td>
+      </tr>
+   
+  </table>
+  <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
