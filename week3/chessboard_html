@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Chessboard</title>
+</head>
+<body>
+  <table border="1" cellspacing="0" cellpadding="0" width="480" align="center">
+    <tr>
+      <td width="60" height="60" bgcolor="black"></td>
+      <td width="60" height="60" bgcolor="white"></td>
+      <td width="60" height="60" bgcolor="black"></td>
+      <td width="60" height="60" bgcolor="white"></td>
+      <td width="60" height="60" bgcolor="black"></td>
+      <td width="60" height="60" bgcolor="white"></td>
+      <td width="60" height="60" bgcolor="black"></td>
+      <td width="60" height="60" bgcolor="white"></td>
+    </tr>
+    <tr>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+    </tr>
+    <tr>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+    </tr>
+    <tr>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+    </tr>
+    <tr>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+    </tr>
+    <tr>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+    </tr>
+    <tr>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+    </tr>
+    <tr>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+      <td bgcolor="white" width="60" height="60"></td>
+      <td bgcolor="black" width="60" height="60"></td>
+    </tr>
+  </table>
+</body>
+</html>
